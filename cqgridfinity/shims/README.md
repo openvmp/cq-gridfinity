@@ -1,4 +1,4 @@
-# /pub/storage/workspace/gridfinity
+# //pub/storage/workspace/gridfinity
 
 Created by Zach Freedman as a versatile system of modular organization and storage modules.
 
